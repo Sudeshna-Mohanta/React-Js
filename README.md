@@ -1,5 +1,5 @@
 # React-Js
 
-Whatever I will be learning in React JS I will host here.
+Whatever I have learned in React JS till now is here.
 <br>
-Raj Mohanta
+Sudeshna Mohanta
